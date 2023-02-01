@@ -1,0 +1,9 @@
+[package]
+name = "rgit"
+version = "0.1.0"
+authors = ["Atri Hegde <iamatrihegde@outlook.com>"]
+homepage = "https://hegdeatri/projects/rgit"
+edition = "2021"
+
+[dependencies]
+actix-web = "4"
