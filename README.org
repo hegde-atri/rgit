@@ -1,0 +1,13 @@
+#+title: rgit
+#+author: Atri Hegde <iamatrihegde@outlook.com>
+#+description: Blazingly fast web frontend for git written in rust.
+
+Blazingly fast web frontend for git written in rust :crab:.
+
+** TODO Features
+- [ ]
+
+** What is this project?
+I hope to make an alternative to ~cgit~, where you will be able to install
+rgit on a server where you are running your git server, and ~rgit~ will create
+a simple website to showcase your repositories.
