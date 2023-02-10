@@ -1,0 +1,13 @@
+#+title: Reference
+#+author: Atri Hegde <iamatrihegde@outlook.com>
+#+description: Some notes on how a git server would be configured.
+
+My reference notes for how a git server works.
+
++ [ ] Auto scan dirs every minute
++ [ ] Cached webpages
++ [ ] Get tags and release info?
+
+** References
+
++ [[https://git.causal.agency/cgit-pink/about/][cgit-pink]]
