@@ -11,3 +11,5 @@ Blazingly fast web frontend for git written in rust :crab:.
 I hope to make an alternative to ~cgit~, where you will be able to install
 rgit on a server where you are running your git server, and ~rgit~ will create
 a simple website to showcase your repositories.
+
+Like [`https://github.com/w4/rgit`](https://github.com/w4/rgit).
